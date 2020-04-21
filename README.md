@@ -1,1 +1,1 @@
-# school hand-on
+# school hands-on
