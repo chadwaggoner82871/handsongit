@@ -1,1 +1,1 @@
-# handsongit
+# school hand-on
